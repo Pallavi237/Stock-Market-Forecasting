@@ -37,6 +37,9 @@ The objective of the project is not only to predict the future outcome but also 
 1.5 second density graph shows the distribution of number of times you will make profit on the forecasted date,, when you mouse iver on this plot you can also observe the ratio of profit to call option value you are investing.
 
 1.6 The other ui element is data table consisting of the forecasted increase from the option target price from today until the given forecasted date. You can search for the particular date get the mean earnings to the option target.
+### For Example - If I would like to buy a stock of FB on 19 Jan 2018 at call option of 13.25$ for a strike price of 125$, which is currently trading at 120$
+![alt tag](https://cloud.githubusercontent.com/assets/23565353/20693054/e1d07950-b5a9-11e6-8620-ee9417af34db.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/23565353/20693055/e1d0babe-b5a9-11e6-84f7-57ec035d84fc.PNG)
 
 ## Recommendation
 1.	A simple but powerful tool for evaluating the financial options before investing, we can easily find the options which are undervalued and invest into them.
