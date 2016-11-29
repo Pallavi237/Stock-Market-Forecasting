@@ -47,6 +47,6 @@ The objective of the project is not only to predict the future outcome but also 
 3.	Model is updated in every instance which makes it more desirable than a model which is pre-built and implemented in real-time.
 4.	Mostly a simulation of the trend, which makes the number of assumptions in the stock prices to be minimal.
 
-## To access the application directly,
-runGitHub("Financial-Options-Evaluation", "psingh237")
+## To access the application directly,load Shiny in R studio and run the below command:
+runGitHub("Stock-Market-Forecasting", "psingh237")
 
