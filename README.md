@@ -48,5 +48,5 @@ The objective of the project is not only to predict the future outcome but also 
 4.	Mostly a simulation of the trend, which makes the number of assumptions in the stock prices to be minimal.
 
 ## To access the application directly,load Shiny in R studio and run the below command:
-runGitHub("Stock-Market-Forecasting", "psingh237")
+runGitHub("Stock-Market-Forecasting", "Pallavi237")
 
