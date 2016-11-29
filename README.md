@@ -18,7 +18,7 @@ Puts are the opposite of Calls. If you buy a Put, it gives you the right to sell
 The objective of the project is not only to predict the future outcome but also to make it available to the public in order for them to understand future market. So, the first part of the project is to forecast the stock price and second part of the project is to create a application to make forecasts available to the user along with some stock markets insights 
 
 ### Code for stock price foercast 
-
+![alt tag](https://cloud.githubusercontent.com/assets/23565353/20692996/721f8d1c-b5a9-11e6-9db0-e2490459c80e.PNG)
 
 ### Application Landing Page
 ![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689286/a379a97c-b592-11e6-8032-5d8b485082f8.png)
